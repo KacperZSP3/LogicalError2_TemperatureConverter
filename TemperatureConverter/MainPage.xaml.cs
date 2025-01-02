@@ -1,6 +1,6 @@
 ﻿namespace TemperatureConverter;
 
-//Temperatura jest 
+//Temperatura jest konwertowana z Celsjusza na Fahrenheita
 
 public partial class MainPage : ContentPage
 {
